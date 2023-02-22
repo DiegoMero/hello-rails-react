@@ -12,6 +12,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 # 📖 Hello Rails React <a name="about-project"></a>
 
@@ -106,5 +107,11 @@ If you like this project feel free to support!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank all my coding partners that help me through the obstacles.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/DiegoMero/hello-rails-react/blob/hello-world/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
